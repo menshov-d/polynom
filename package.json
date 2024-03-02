@@ -1,0 +1,8 @@
+{
+  "name": "polynom",
+  "version": "1.0.0",
+  "description": "Производит вычисление слагаемых полинома вида P(x)=y+x^1+x^2+...+x^n",
+  "main": "polynom.js",
+  "author": "Дмитрий Меньшов",
+  "license": "ISC"
+}
